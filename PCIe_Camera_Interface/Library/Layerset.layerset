@@ -1,0 +1,1 @@
+LAYERSET6NAME=PCIe Layer|LAYERSET6LAYERS=MultiLayer,TopPaste,TopOverlay,TopSolder,TopLayer,BottomLayer,BottomSolder,BottomOverlay,BottomPaste,DrillGuide,KeepOutLayer,Mechanical1,Mechanical2,Mechanical3,Mechanical4,Mechanical5,Mechanical6,DrillDrawing|LAYERSET6ACTIVELAYER.7=TOP|LAYERSET6ISCURRENT=TRUE|LAYERSET6ISLOCKED=FALSE|LAYERSET6FLIPBOARD=FALSE
