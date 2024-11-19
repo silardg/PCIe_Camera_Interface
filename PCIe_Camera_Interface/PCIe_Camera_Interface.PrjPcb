@@ -42,6 +42,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Manufacturing
 
 [Preferences]
 PrefsVaultGUID=
@@ -165,6 +166,17 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=A3E5B129-3F31-4980-BCF7-9200C64313DB
+Description=Manufacturing
+AllowFabrication=1
+ParameterCount=0
+VariationCount=3
+Variation1=Designator=R?|UniqueId=\TEHBZCDW|Kind=1|AlternatePart= 
+Variation2=Designator=R?|UniqueId=\PHKXAFTX|Kind=1|AlternatePart= 
+Variation3=Designator=R?|UniqueId=\XURFXZKH|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Parameter1]
 Name=ProjectTitle
